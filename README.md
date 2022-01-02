@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Some languages I used
+## About
+
+I'm a CS student in UMass Amherst with interest in website/app backend and systems in general. I hope to make projects with simple and good architecture.
+
+## Some languages I used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theanh28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
